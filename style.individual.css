@@ -1,0 +1,86 @@
+body {
+    background-image:url(back.jpg);
+    color: #fff;
+    font-family: "Arial", sans-serif;
+}
+
+.logo {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+}
+
+.titulo {
+    display: block;
+    margin: 0 auto;
+     /* Centraliza horizontalmente */
+    text-align: center; /* Centraliza o texto */
+    font-size: 36px; /* Tamanho da fonte maior */
+    font-weight: bold; /* Fonte em negrito */
+    color: #ffffff; /* Texto branco */
+    font-family: Impact, sans-serif; /* Fonte Impact */
+}
+#individual {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.card {
+    background-color: #222;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.6);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.card img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    max-width: 100%;
+    height: 200px;
+    width: 160px;
+   
+}
+
+.procurado {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.nome {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.nome_real {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.nivel_de_poder {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.status {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.back-link {
+    display: block;
+    margin: 20px auto; /* Centraliza horizontalmente */
+    text-align: center; /* Centraliza o texto */
+    padding: 10px 20px; /* Adiciona um pouco de espaço ao redor do texto */
+    background-color: #d60000; /* Cor de fundo vermelha */
+    color: #fff; /* Texto branco */
+    border: none; /* Remove a borda */
+    border-radius: 5px; /* Adiciona cantos arredondados */
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+}

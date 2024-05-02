@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personagens>
+    <personagem>
+        <id>1</id>
+        <nome>Mário</nome>
+        <descri>Mario é o personagem principal da série. Ele é um encanador italiano que vive no Reino dos Cogumelos e muitas vezes embarca em missões para resgatar a Princesa Peach das garras de Bowser, o vilão principal. </descri>
+        
+        <status>Vivo</status>
+    </personagem>
+    <personagem>
+        <id>2</id>
+        <nome>Luigi</nome>
+        <descri> Luigi é o irmão mais novo de Mario e muitas vezes atua como seu parceiro em aventuras. Ele é conhecido por sua personalidade tímida, mas é igualmente corajoso quando necessário.</descri>
+        <status>Vivo</status>
+    </personagem>
+    <personagem>
+        <id>3</id>
+        <nome>Princesa Peach</nome>
+        <descri> A Princesa Peach é a governante do Reino dos Cogumelos e é frequentemente sequestrada por Bowser. Ela é conhecida por sua gentileza e elegância, e às vezes também participa de aventuras.</descri>
+    
+        <status>Vivo</status>
+    </personagem>
+     <personagem>
+        <id>4</id>
+        <nome>Bowser</nome>
+        <descri> Bowser é o principal antagonista da série Super Mario. Ele é um grande lagarto com casco que tem como objetivo dominar o Reino dos Cogumelos e sequestrar a Princesa Peach.</descri>
+    
+   
+        <status>Vivo</status>
+    </personagem>
+   <personagem>
+        <id>5</id>
+        <nome>Yoshi</nome>
+        <descri> Yoshi é uma criatura dinossauro que ajuda Mario em muitas de suas aventuras. Ele tem a habilidade única de engolir inimigos e transformá-los em ovos que podem ser arremessados.</descri>
+     
+      
+        <status>Vivo</status>
+    </personagem>
+  <personagem>
+        <id>6</id>
+        <nome>Toad</nome>
+        <descri> oad é um habitante do Reino dos Cogumelos e muitas vezes ajuda Mario em suas missões, fornecendo-lhe informações e itens úteis. Ele é conhecido por sua lealdade e otimismo.</descri>
+   
+   
+        <status>Vivo</status>
+   </personagem>
+    <personagem>
+        <id>7</id>
+        <nome>Donkey Kong</nome>
+      <descri>Donkey Kong é um gorila grande e poderoso que ocasionalmente entra em conflito com Mario. Apesar de suas brigas, às vezes eles trabalham juntos em situações de emergência. </descri>
+       
+        <status>Vivo</status>
+    </personagem>
+    <personagem>
+        <id>8</id>
+        <nome>Wario</nome>
+      <descri>Wario é o rival de Mario e muitas vezes age como um antagonista nos jogos da série. Ele é ganancioso e está sempre atrás de tesouros e riquezas. </descri>
+      
+        <status>Vivo</status>
+    </personagem>
+     <personagem>
+        <id>9</id>
+        <nome>Waluigi</nome>
+<descri>Waluigi é o parceiro de Wario e também atua como um rival de Luigi. Ele é conhecido por sua personalidade astuta e por participar de vários eventos esportivos no universo Mario. </descri>
+      
+        <status>Vivo</status>
+   </personagem>
+ <personagem>
+        <id>10</id>
+        <nome>Rosalina</nome>
+      <descri> Rosalina é uma princesa que reside na Galáxia Cometa e é a guardiã das Estrelas Lumas. Ela ajuda Mario em sua jornada em alguns jogos e é conhecida por sua sabedoria e serenidade.</descri>
+    
+        <status>Vivo</status>
+     </personagem>
+</personagens>
